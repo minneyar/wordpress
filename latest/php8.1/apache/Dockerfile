@@ -42,6 +42,8 @@ RUN set -ex; \
 		gd \
 		intl \
 		mysqli \
+		pdo \
+		pdo_mysql \
 		zip \
 	; \
 # https://pecl.php.net/package/imagick
